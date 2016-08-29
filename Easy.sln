@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SameTree", "SameTree\SameTr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RansomNote", "RansomNote\RansomNote.vcxproj", "{225F25F8-45F8-47B8-9176-15DB29E14EC3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExcelSheetColumnHeader", "ExcelSheetColumnHeader\ExcelSheetColumnHeader.vcxproj", "{2A69409D-1562-44E8-B4BF-7757529525BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{225F25F8-45F8-47B8-9176-15DB29E14EC3}.Release|x64.Build.0 = Release|x64
 		{225F25F8-45F8-47B8-9176-15DB29E14EC3}.Release|x86.ActiveCfg = Release|Win32
 		{225F25F8-45F8-47B8-9176-15DB29E14EC3}.Release|x86.Build.0 = Release|Win32
+		{2A69409D-1562-44E8-B4BF-7757529525BE}.Debug|x64.ActiveCfg = Debug|x64
+		{2A69409D-1562-44E8-B4BF-7757529525BE}.Debug|x64.Build.0 = Debug|x64
+		{2A69409D-1562-44E8-B4BF-7757529525BE}.Debug|x86.ActiveCfg = Debug|Win32
+		{2A69409D-1562-44E8-B4BF-7757529525BE}.Debug|x86.Build.0 = Debug|Win32
+		{2A69409D-1562-44E8-B4BF-7757529525BE}.Release|x64.ActiveCfg = Release|x64
+		{2A69409D-1562-44E8-B4BF-7757529525BE}.Release|x64.Build.0 = Release|x64
+		{2A69409D-1562-44E8-B4BF-7757529525BE}.Release|x86.ActiveCfg = Release|Win32
+		{2A69409D-1562-44E8-B4BF-7757529525BE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
