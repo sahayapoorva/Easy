@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReverseString", "ReverseString\ReverseString.vcxproj", "{619FFE17-1B8A-4555-BC82-C150D4A723F3}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntersectionOfTwoArrays", "IntersectionOfTwoArrays\IntersectionOfTwoArrays.vcxproj", "{C86BD240-D5E7-4A7F-BB3E-9A34B467FA5C}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeleteNode", "DeleteNode\DeleteNode.vcxproj", "{A917E44B-9D58-49E7-B997-96128B05ABD2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SameTree", "SameTree\SameTree.vcxproj", "{D82B644A-017B-45A7-A132-1F4982BE98E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,14 @@ Global
 		{A917E44B-9D58-49E7-B997-96128B05ABD2}.Release|x64.Build.0 = Release|x64
 		{A917E44B-9D58-49E7-B997-96128B05ABD2}.Release|x86.ActiveCfg = Release|Win32
 		{A917E44B-9D58-49E7-B997-96128B05ABD2}.Release|x86.Build.0 = Release|Win32
+		{D82B644A-017B-45A7-A132-1F4982BE98E7}.Debug|x64.ActiveCfg = Debug|x64
+		{D82B644A-017B-45A7-A132-1F4982BE98E7}.Debug|x64.Build.0 = Debug|x64
+		{D82B644A-017B-45A7-A132-1F4982BE98E7}.Debug|x86.ActiveCfg = Debug|Win32
+		{D82B644A-017B-45A7-A132-1F4982BE98E7}.Debug|x86.Build.0 = Debug|Win32
+		{D82B644A-017B-45A7-A132-1F4982BE98E7}.Release|x64.ActiveCfg = Release|x64
+		{D82B644A-017B-45A7-A132-1F4982BE98E7}.Release|x64.Build.0 = Release|x64
+		{D82B644A-017B-45A7-A132-1F4982BE98E7}.Release|x86.ActiveCfg = Release|Win32
+		{D82B644A-017B-45A7-A132-1F4982BE98E7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
