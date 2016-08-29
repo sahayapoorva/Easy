@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeleteNode", "DeleteNode\De
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SameTree", "SameTree\SameTree.vcxproj", "{D82B644A-017B-45A7-A132-1F4982BE98E7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RansomNote", "RansomNote\RansomNote.vcxproj", "{225F25F8-45F8-47B8-9176-15DB29E14EC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{D82B644A-017B-45A7-A132-1F4982BE98E7}.Release|x64.Build.0 = Release|x64
 		{D82B644A-017B-45A7-A132-1F4982BE98E7}.Release|x86.ActiveCfg = Release|Win32
 		{D82B644A-017B-45A7-A132-1F4982BE98E7}.Release|x86.Build.0 = Release|Win32
+		{225F25F8-45F8-47B8-9176-15DB29E14EC3}.Debug|x64.ActiveCfg = Debug|x64
+		{225F25F8-45F8-47B8-9176-15DB29E14EC3}.Debug|x64.Build.0 = Debug|x64
+		{225F25F8-45F8-47B8-9176-15DB29E14EC3}.Debug|x86.ActiveCfg = Debug|Win32
+		{225F25F8-45F8-47B8-9176-15DB29E14EC3}.Debug|x86.Build.0 = Debug|Win32
+		{225F25F8-45F8-47B8-9176-15DB29E14EC3}.Release|x64.ActiveCfg = Release|x64
+		{225F25F8-45F8-47B8-9176-15DB29E14EC3}.Release|x64.Build.0 = Release|x64
+		{225F25F8-45F8-47B8-9176-15DB29E14EC3}.Release|x86.ActiveCfg = Release|Win32
+		{225F25F8-45F8-47B8-9176-15DB29E14EC3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
