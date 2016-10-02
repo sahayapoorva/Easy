@@ -59,6 +59,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hr_cutthesticks", "hr_cutth
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hr_non_divisible_subset", "hr_non_divisible_subset\hr_non_divisible_subset.vcxproj", "{2DB16BC9-A6E5-499B-BEA9-FD53E29489D3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hr_Sock_merchant", "hr_Sock_merchant\hr_Sock_merchant.vcxproj", "{8D98A815-64A3-42AA-B284-FCEB80AE5F1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -291,6 +293,14 @@ Global
 		{2DB16BC9-A6E5-499B-BEA9-FD53E29489D3}.Release|x64.Build.0 = Release|x64
 		{2DB16BC9-A6E5-499B-BEA9-FD53E29489D3}.Release|x86.ActiveCfg = Release|Win32
 		{2DB16BC9-A6E5-499B-BEA9-FD53E29489D3}.Release|x86.Build.0 = Release|Win32
+		{8D98A815-64A3-42AA-B284-FCEB80AE5F1A}.Debug|x64.ActiveCfg = Debug|x64
+		{8D98A815-64A3-42AA-B284-FCEB80AE5F1A}.Debug|x64.Build.0 = Debug|x64
+		{8D98A815-64A3-42AA-B284-FCEB80AE5F1A}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D98A815-64A3-42AA-B284-FCEB80AE5F1A}.Debug|x86.Build.0 = Debug|Win32
+		{8D98A815-64A3-42AA-B284-FCEB80AE5F1A}.Release|x64.ActiveCfg = Release|x64
+		{8D98A815-64A3-42AA-B284-FCEB80AE5F1A}.Release|x64.Build.0 = Release|x64
+		{8D98A815-64A3-42AA-B284-FCEB80AE5F1A}.Release|x86.ActiveCfg = Release|Win32
+		{8D98A815-64A3-42AA-B284-FCEB80AE5F1A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
